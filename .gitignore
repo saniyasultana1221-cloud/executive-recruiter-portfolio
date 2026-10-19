@@ -1,0 +1,5 @@
+.vercel/
+*.log
+.env*
+.DS_Store
+Thumbs.db
